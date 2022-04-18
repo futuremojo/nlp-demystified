@@ -6,4 +6,4 @@ It's currently a work-in-progress with modules being released regularly over the
 
 No machine learning knowledge required. As long as you know Python and a bit of high school math, you're good to go.
 
-Visit nlpdemystified.org to start learning.
+Visit [nlpdemystified.org](https://nlpdemystified.org) to start learning.
